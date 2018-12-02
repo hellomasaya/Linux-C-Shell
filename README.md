@@ -1,6 +1,4 @@
 # Shell
-## OS Assignment 2
-### Harshita Sharma (20171099)
 
 **To run the shell, enter the following commands:**
 	1. make
